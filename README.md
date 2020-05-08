@@ -1,5 +1,5 @@
 ## ABOUT GESTION DE GARAGE - CAS DE CFAO
-Le projet gestion de garage est un travail pratique réalisé dans le cours de conception des systèmes d'information par Ketsia Mulapi Tita & Laurel Muswamba Biakunyenga.
+Le projet gestion de garage de réparation pour automobile est un travail pratique qui s'inscrit dans le cadre du cours de conception des systèmes d'informations, réalisé par Ketsia Mulapi Tita & Laurel Muswamba Biakunyenga.
 
 ### Architecture 
     .
