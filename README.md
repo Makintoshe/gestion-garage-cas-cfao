@@ -5,19 +5,19 @@ Le projet gestion de garage est un travail pratique réalisé dans le cours de c
     .
     ├── entites                # Représentation de la BD.
     │   ├── AutomobileE.java     # Le schema de la table Automobile ds la bd.
-    │   ├── etc.js             # Autres schema    │
+    │   ├── etcE.java             # Autres schema    │
     ├── service                # Les services relatifs à chaque Modèle.
     │   ├── AutomobileS.java   # Ensemble des services appliqués à un Autombile.
-    │   ├── etc.js                 │
+    │   ├── etcS.java                 │
     ├── Présentations Controlleurs           # Les services relatifs à chaque collection.
     │   ├── GUIReparationControlleur.java         # Ensemble des controlleurs GUI~SERVICE dédié à la réparation
-    │   ├── etc.java            
+    │   ├── GUIetcControlleur.java            
     ├── DAO                    # Couche D'accès aux données via des objets.
     │   ├── AutomobilesDAO.java  # Ce sont des fonctions de traitement de données pour les uatomobiles Entités~Services.
-    │   ├── etc.java
+    │   ├── etcDAO.java
     ├── Présentation.GUI       # Ensemble des composants graphiques
     │   └── GUIPiece.java      # IHM pour la gestion des pièces 
-    │   ├── etc.js
+    │   ├── GUIetc.java
     └── Autres présentations   # Autres package de présentations dédiés à des ressources images.
 
 NOTA :
