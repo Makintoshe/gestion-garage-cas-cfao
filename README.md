@@ -23,7 +23,7 @@ Le projet gestion de garage de réparation pour automobile est un travail pratiq
 NOTA :
 *	La base de données : ```GestionGarage/bdgaragerep.sql```  ou ```GestionGarage/bdgarage.sql.zip``` selon la convenance
 *	Le chemin vers la BD : ```http://jdbc:mysql://localhost:3306/bdgaragerep```
-*	Pour accéder au contenu de l'application entrer les informations de username et mot de passe respectivement : ```username : patrick, password:bashizi``` ou ```username:root,password: ``` le deuxième password est vide!!!
+*	Pour accéder au contenu de l'application entrer les informations de username et mot de passe respectivement : ```username:root,password: ``` le deuxième password est vide!!!
 
 ### TODO LIST
 
