@@ -1,7 +1,7 @@
 ## ABOUT GESTION DE GARAGE - CAS DE CFAO
 Le projet gestion de garage de réparation pour automobile est un travail pratique qui s'inscrit dans le cadre du cours de conception des systèmes d'informations, réalisé par Ketsia Mulapi Tita & Laurel Muswamba Biakunyenga.
 
-### Architecture 
+### Architecture : Patterne Singleton DAO (Data Access Object)
     .
     ├── entites                # Représentation de la BD.
     │   ├── AutomobileE.java     # Le schema de la table Automobile ds la bd.
