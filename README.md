@@ -9,7 +9,7 @@ Le projet gestion de garage de réparation pour automobile est un travail pratiq
     ├── service                # Les services relatifs à chaque Modèle.
     │   ├── AutomobileS.java   # Ensemble des services appliqués à un Autombile.
     │   ├── etcS.java                 │
-    ├── Présentations Controlleurs           # Les services relatifs à chaque collection.
+    ├── Présentations.Controlleurs           # Les services relatifs à chaque collection.
     │   ├── GUIReparationControlleur.java         # Ensemble des controlleurs GUI~SERVICE dédié à la réparation
     │   ├── GUIetcControlleur.java            
     ├── DAO                    # Couche D'accès aux données via des objets.
